@@ -1,0 +1,9 @@
+@startuml
+object AnnaDąbrowska
+object EwaKowalska
+EwaKowalska<--AnnaDąbrowska
+
+object MarekKowalski
+MarekKowalski<--AnnaDąbrowska
+
+@enduml
